@@ -1,0 +1,18 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+img {
+    width: 200px;
+    height: 300px;
+}
+.title{
+    background-image: linear-gradient(rgb(255, 149, 0), yellow);
+    width: 300px;
+    margin: auto;
+    text-align: center;
+}
+.desc {
+    background-color: rgb(54, 211, 232);
+    margin-top: 20px;
+    text-align: center;
+}
